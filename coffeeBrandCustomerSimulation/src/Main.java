@@ -15,7 +15,7 @@ public class Main {
 		Calendar dateOfBirth = Calendar.getInstance();
 		dateOfBirth.set(2005, 8, 9);
 		
-		customerManager.save(new Customer(1, "Sezer", "Tetik", dateOfBirth, "11555362086"));
+		customerManager.save(new Customer(1, "Sezer", "Tetik", dateOfBirth, "89125818521"));
 	}
 
 }
